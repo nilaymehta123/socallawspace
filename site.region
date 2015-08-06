@@ -173,7 +173,7 @@
             <div class="title-nav-wrapper">
               {.section website}
               <h1 data-content-field="site-title" class="site-title">
-                <a href="/home" id="top">
+                <a href="/so-cal-law-firm-spaces" id="top">
                   {.section logoImageUrl}
                    <img src="{logoImageUrl}?format=400w" alt="{siteTitle}" />
                   {.or}
