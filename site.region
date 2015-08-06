@@ -227,8 +227,8 @@
               <div class="outer-wrapper">
                 <div class="wrapper">
                   <nav class="pagination cf">
-                    {.if pagination.prevPage}<div class="newer"><a href="{pagination.prevPageUrl}">Newer</a></div>{.or}<div class="newer mute">Newer</div>{.end}
-                    {.if pagination.nextPage}<div class="older"><a href="{pagination.nextPageUrl}">Older</a></div>{.or}<div class="older mute">Older</div>{.end}
+                    {.if pagination.prevPage}<div class="newer"><a href="{pagination.prevPageUrl}"><Previous</a></div>{.or}<div class="newer mute">Newer</div>{.end}
+                    {.if pagination.nextPage}<div class="older"><a href="{pagination.nextPageUrl}">Next></a></div>{.or}<div class="older mute">Older</div>{.end}
                   </nav>
                 </div>
               </div>
