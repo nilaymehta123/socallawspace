@@ -42,10 +42,7 @@
               <!--MAIN NAVIGATION-->
               <div id="desktopNav" data-content-field="navigation-mainNav" data-annotation-alignment="bottom left">
                 <squarespace:navigation navigationId="mainNav" template="navigation" />
-              </div>
-	<h2 style="color:white;">
-	TEST SEARCH
-	</h2>	
+              </div>	
             </div>
           </header>
         {.section item}
