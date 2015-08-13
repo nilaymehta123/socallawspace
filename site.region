@@ -43,6 +43,9 @@
               <div id="desktopNav" data-content-field="navigation-mainNav" data-annotation-alignment="bottom left">
                 <squarespace:navigation navigationId="mainNav" template="navigation" />
               </div>
+	<h2>
+	SEARCH
+	</h2>	
             </div>
           </header>
         {.section item}
