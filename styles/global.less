@@ -1512,12 +1512,13 @@ h1.page-title {
 .entry-footer {
   width: 100%;
   margin: 0;
-  padding: 15px 0;
+  padding: 0px 0px 20px 0px;
   //.meta-font;
-  font-size: 1em;
+  font-size: 1.4em;
+  font-weight: bold;
   text-align: left;
-  line-height: 1.6em;
-  color: @metaColor;
+  line-height: 1.2em;
+  color: #0d4b77;
   a, a:visited {
     color: @metaColor;
   }
@@ -1825,23 +1826,23 @@ h1.page-title {
   display: table-cell;
   vertical-align: middle;
   margin: 0;
-  color: @metaColor;
+  color: #15558a;
   .newer, .older {
     display: inline-block;
     &.mute {
-      color: fadeout(@metaColor, 50%);
+      color: fadeout(#15558a, 50%);
     }
     &:before {
-      content: '/';
+      content: '|';
       padding: 0 0.75em 0 0.5em;
-      color: fadeout(@metaColor, 50%) !important;
+      color: fadeout(#15558a, 50%) !important;
     }
     &:first-child:before {
-      content: '';
+      //content: '';
       padding: 0;
     }
     a, a:visited {
-      color: @metaColor;
+      color: @fffff;
     }
   }
   .older {
