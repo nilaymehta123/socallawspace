@@ -12,7 +12,7 @@
       Y.Squarespace.FollowButtonUtils = {};
       Y.Squarespace.FollowButtonUtils.renderAll = function(){};
     </script>
-//Designed and developed by Nilay Mehta - nilay.mehta123@gmail.com
+#Designed and developed by Nilay Mehta - nilay.mehta123@gmail.com
 
   </head>
 
@@ -267,6 +267,7 @@
             </div>
             <squarespace:block-field id="footerBlocks" columns="12" label="Footer Content" />
           </div>
+#Designed and developed by Nilay Mehta - nilay.mehta123@gmail.com
         </footer>
 
       {squarespace-footers}
