@@ -267,7 +267,7 @@
             </div>
             <squarespace:block-field id="footerBlocks" columns="12" label="Footer Content" />
           </div>
-#Designed and developed by Nilay Mehta - nilay.mehta123@gmail.com
+<!--Designed and developed by Nilay Mehta - nilay.mehta123@gmail.com -->
         </footer>
 
       {squarespace-footers}
