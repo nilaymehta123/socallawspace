@@ -127,8 +127,8 @@
                     {.if pagination.prevItem}<div class="newer"><a href="{pagination.prevItem.fullUrl}">Previous</a></div>{.or}<div class="newer mute">Previous</div>{.end}
                     {.if pagination.nextItem}<div class="older"><a href="{pagination.nextItem.fullUrl}">Next</a></div>{.or}<div class="older mute">Next</div>{.end}
                     {.or}
-                    {.if pagination.prevItem}<div class="newer"><a href="{pagination.prevItem.fullUrl}">Newer</a></div>{.or}<div class="newer mute">Newer</div>{.end}
-                    {.if pagination.nextItem}<div class="older"><a href="{pagination.nextItem.fullUrl}">Older</a></div>{.or}<div class="older mute">Older</div>{.end}
+                    {.if pagination.prevItem}<div class="newer"><a href="{pagination.prevItem.fullUrl}"><<</a></div>{.or}<div class="newer mute"><<</div>{.end}
+                    {.if pagination.nextItem}<div class="older"><a href="{pagination.nextItem.fullUrl}">Next Page>></a></div>{.or}<div class="older mute">Next Page>></div>{.end}
                     {.end}
                     {.end}
                   </nav>
