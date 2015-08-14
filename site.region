@@ -29,7 +29,7 @@
             <div class="title-nav-wrapper">
               {.section website}
               <h1 data-content-field="site-title" data-annotation-alignment="bottom" class="site-title">
-                <a href="/home" id="top">
+                <a href="/" id="top">
                
                 </a>
               </h1>
