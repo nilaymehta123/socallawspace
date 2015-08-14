@@ -30,11 +30,11 @@
               {.section website}
               <h1 data-content-field="site-title" data-annotation-alignment="bottom" class="site-title">
                 <a href="/" id="top">
-                {.section logoImageUrl}
-                  <img src="{logoImageUrl}?format=400w" alt="{siteTitle}" />
-                {.or}
-                  {siteTitle}
-                {.end}
+                //{.section logoImageUrl}
+                //  <img src="{logoImageUrl}?format=400w" alt="{siteTitle}" />
+                //{.or}
+                 // {siteTitle}
+                //{.end}
                 </a>
               </h1>
               {.end}
